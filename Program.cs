@@ -42,14 +42,15 @@ namespace Bai3._13
             
             foreach (CongNhan congNhan in listCongNhan)
             {
-                congNhan.ToString();
+                Console.WriteLine(congNhan.ToString());
             }
             //in max salary
             Console.WriteLine("\nThong tin cong nhan co Max salary: ");
             CongNhan congNhanMax = listCongNhan.Max();
             Console.WriteLine("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}", "Hoten", "GioiTinh", "DiaChi", "NamSinh", "TenCongTy", "NgayLamViec", "HeSoLuong");
-            congNhanMax.ToString();
+            Console.WriteLine(congNhanMax.ToString());
             Console.ReadLine();
+         
         }
     }
 }
