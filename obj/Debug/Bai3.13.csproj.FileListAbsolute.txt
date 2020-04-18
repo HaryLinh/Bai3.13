@@ -1,0 +1,7 @@
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\bin\Debug\Bai3.13.exe.config
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\bin\Debug\Bai3.13.exe
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\bin\Debug\Bai3.13.pdb
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\obj\Debug\Bai3.13.csprojAssemblyReference.cache
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\obj\Debug\Bai3.13.csproj.CoreCompileInputs.cache
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\obj\Debug\Bai3.13.exe
+C:\Users\Anhli\source\repos\Bai3.13\Bai3.13\obj\Debug\Bai3.13.pdb
